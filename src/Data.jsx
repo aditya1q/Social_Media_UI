@@ -1,0 +1,168 @@
+export const Users = [
+     {
+        id:1,
+        profilePicture:"/image/1.jpg",
+        username:"Lilly",
+     },
+     {
+        id:2,
+        profilePicture:"/image/2.jpg",
+        username:"Milly",
+     },
+     {
+        id:3,
+        profilePicture:"/image/3.jpg",
+        username:"Emma",
+     },
+     {
+        id:4,
+        profilePicture:"/image/4.jpg",
+        username:"Jennie",
+     },
+     {
+        id:5,
+        profilePicture:"/image/5.jpg",
+        username:"Sadie",
+     },
+     {
+        id:6,
+        profilePicture:"/image/6.jpg",
+        username:"Watson",
+     },
+     {
+        id:7,
+        profilePicture:"/image/7.jpg",
+        username:"Jack",
+     },
+     {
+        id:8,
+        profilePicture:"/image/8.jpg",
+        username:"Jimmy",
+     },
+     {
+        id:9,
+        profilePicture:"/image/9.jpg",
+        username:"Hactor",
+     },
+     {
+        id:10,
+        profilePicture:"/image/10.jpg",
+        username:"Smith",
+     },
+     {
+        id:11,
+        profilePicture:"/image/11.jpg",
+        username:"will",
+     },
+     {
+        id:12,
+        profilePicture:"/image/12.jpg",
+        username:"Lisa",
+     },
+     {
+        id:13,
+        profilePicture:"/image/13.jpg",
+        username:"Kathrine",
+     },
+     {
+        id:14,
+        profilePicture:"/image/14.jpg",
+        username:"Scarllet",
+     },
+     {
+        id:15,
+        profilePicture:"/image/15.jpg",
+        username:"Love",
+     },
+     {
+        id:16,
+        profilePicture:"/image/1.jpg",
+        username:"Jane",
+     },
+     {
+        id:17,
+        profilePicture:"/image/3.jpg",
+        username:"Ortega",
+     },
+     {
+        id:18,
+        profilePicture:"/image/5.jpg",
+        username:"Larry",
+     },
+];
+
+export const Posts = [
+    {
+        id:1,
+        photo:"/image/11.jpg",
+        desc:"Love for all, Hated for none",
+        date:"5 mins ago",
+        userid:1,
+        like:34,
+        comment:11,
+    },
+    {
+        id:2,
+        photo:"/image/12.jpg",
+        desc:"Reach your goal",
+        date:"24 mins ago",
+        userid:2,
+        like:35,
+        comment:31,
+    },
+    {
+        id:3,
+        photo:"/image/13.jpg",
+        desc:"Focus on your goals",
+        date:"51 mins ago",
+        userid:3,
+        like:3,
+        comment:21,
+    },
+    {
+        id:4,
+        photo:"/image/14.jpg",
+        desc:"Be yourself",
+        date:"5 mins ago",
+        userid:4,
+        like:64,
+        comment:19,
+    },
+    {
+        id:5,
+        photo:"/image/15.jpg",
+        desc:"Be Honest",
+        date:"2 Hours ago",
+        userid:5,
+        like:614,
+        comment:119,
+    },
+    {
+        id:6,
+        photo:"/image/8.jpg",
+        desc:"Drive Safe",
+        date:"52 mins ago",
+        userid:6,
+        like:4,
+        comment:1,
+    },
+    {
+        id:7,
+        photo:"/image/9.jpg",
+        desc:"Tit for tat",
+        date:"1 mins ago",
+        userid:7,
+        like:49,
+        comment:1,
+    },
+    {
+        id:8,
+        photo:"/image/6.jpg",
+        desc:"LIke father like son",
+        date:"2 days ago",
+        userid:8,
+        like:42,
+        comment:1,
+    },
+    
+]
