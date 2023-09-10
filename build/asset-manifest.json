@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social_Media_UI/static/css/main.78e4989c.css",
+    "main.js": "/Social_Media_UI/static/js/main.c1336904.js",
+    "index.html": "/Social_Media_UI/index.html",
+    "main.78e4989c.css.map": "/Social_Media_UI/static/css/main.78e4989c.css.map",
+    "main.c1336904.js.map": "/Social_Media_UI/static/js/main.c1336904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e4989c.css",
+    "static/js/main.c1336904.js"
+  ]
+}
